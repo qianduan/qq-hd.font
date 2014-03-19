@@ -1,7 +1,4 @@
-关于
-========
+Reassembled Font Awesome, prepared for embedding into Fontello.
+Please, don't use materials from this repo in other way. If you need this
+font - go to [original page](http://fortawesome.github.com/Font-Awesome/).
 
-- 这套字体由Tencent CDC设计
-- 本套字体用于QQ HD版本
-- 版权归腾讯公司及CDC设计团队所有
-- 请勿将本字体用于商业用途
